@@ -3,4 +3,4 @@ This program constanty updates real time and allows the user to add tasks to a 8
 run the application.
 
 ![Alt text](https://github.com/vyang9887/Work-Day-Scheduler/blob/main/readmePreview/scheduler.png)
-![Alt text]https://github.com/vyang9887/Work-Day-Scheduler/blob/main/readmePreview/task.png()
+![Alt text](https://github.com/vyang9887/Work-Day-Scheduler/blob/main/readmePreview/task.png)
