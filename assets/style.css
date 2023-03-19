@@ -1,0 +1,60 @@
+.jumbotron {
+    background-color: white;
+    color:black;
+    text-align: center;
+    font-weight: 400; 
+}
+.row {
+    margin: 2px;
+}
+
+hr {
+    background-color: black;
+    height: 5px;
+}
+
+.confirm {
+    color:black;
+    text-align: center;
+    font-weight: 400; 
+}
+
+.time {
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+    background-color: white;
+    display: flex;
+    text-align: center;
+    border-radius: 10px 0px 0px 10px;
+    line-height: 100px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.save {
+    background-color: rgb(155, 252, 252);
+    text-align: center;
+    border-radius: 0px 10px 10px 0px;
+}
+
+button:hover {
+    background-color: rgb(0, 149, 255);
+    transition: .5s;
+}
+
+.past{
+    background-color: lightgrey;
+}
+
+.present{
+    background-color: lightcoral;
+}
+
+.future{
+    background-color:lightgreen;
+}
+
+.hide {
+    display:none;
+}
